@@ -1,0 +1,1 @@
+rootProject.name="lambda-utilities-project"
